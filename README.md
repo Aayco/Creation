@@ -42,7 +42,7 @@ console.log(creation(userId));
 ```
 
 ```warn⚠️
-**These scripts are based on early versions and may give results that differ from the official bot. They need updating.**
+"These scripts are based on early versions and may give results that differ from the official bot. They need updating."
 ```
 
 ---
