@@ -46,6 +46,10 @@ console.log(creation(userId));
 ```
 
 ---
+**Offical Bot: @JoiningDateBot**
+---
+
+---
 
 ## 🚧 Disclaimer
 **This is a test tool for educational and experimental purposes. It's not guaranteed to be accurate, especially for very old Telegram IDs. Consider it as a "math experiment" — sometimes sick, sometimes smart.**
