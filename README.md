@@ -29,7 +29,7 @@ Many people have asked about the creation date of their Telegram ID. While Teleg
 from create import creation
 
 date = creation(id)
-await event.reply(date)
+print(date)
 ```
 
 ### JavaScript Example
